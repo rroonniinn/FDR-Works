@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["document","addEventListener","console","log"],"mappings":"aAAAA,SAASC,iBAAiB,mBAAoB,WAC9CC,QAAQC,IAAM","file":"main.js","sourcesContent":["document.addEventListener('DOMContentLoaded', function(){   \nconsole.log ( 'DOM loaded!' );\n\n}) \n\n"]}
